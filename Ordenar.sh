@@ -41,6 +41,6 @@ while IFS= read -r li || [[ -n "$li" ]]; do
 	done
 done < $archivo
 
-mover "\..+" "otros"
+mover "\..*" "otros"
 
 mover '' "carpetas"
