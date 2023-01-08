@@ -1,0 +1,6 @@
+documentos pdf doc
+comprimidos iso rar zip
+videos mp4
+audios mp3
+ejecutables exe
+imagenes jpeg jpg png
